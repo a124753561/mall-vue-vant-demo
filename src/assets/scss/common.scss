@@ -1,0 +1,17 @@
+.text-desc {
+  font-size: $font-size-small;
+  color: $font-color-gray;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.clearfix:before, .clearfix:after {
+  display: table;
+  content: " ";
+}
+
+.clearfix:after {
+  clear: both;
+}

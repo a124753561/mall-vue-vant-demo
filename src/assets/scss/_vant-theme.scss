@@ -1,0 +1,23 @@
+//tabber
+div.van-tabbar-item--active {
+  color: $red;
+}
+
+.van-tabbar-item__icon .van-icon{
+  font-size: 18px;
+}
+
+//购物车
+.tab-cart > .card_group .van-checkbox {
+  padding-left: 10px;
+  box-sizing: border-box;
+}
+
+.tab-cart > .card_group .van-card {
+  flex: 1;
+}
+.tab-cart .van-card:not(:first-child){
+  margin-top: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
