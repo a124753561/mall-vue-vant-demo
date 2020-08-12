@@ -1,4 +1,4 @@
-# litemall-vue
+# mall-vue-vant-demo
 
 ## Project setup
 ```
